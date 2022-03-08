@@ -40,5 +40,6 @@ public class inorder {
         
         print(root);
         System.out.println("\n");
+        
     }
 }
